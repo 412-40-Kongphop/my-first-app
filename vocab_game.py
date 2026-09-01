@@ -101,4 +101,4 @@ if st.session_state.get("is_ended", False):
     show_result_dialog(ans1, ans2)
 
 st.divider()
-st.write("okpdhv'4r g-,k=t เลขที่ 40 ม.4/12")
+st.write("นายก้องภพ เขมาชะ เลขที่ 40 ม.4/12")
